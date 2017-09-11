@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import org.junit.Assert;
 
-public class fizzbuzz {
+public class lab1part3 {
     public static void main(String[] args) {
        Scanner keyboard = new Scanner (System.in);
 
@@ -13,7 +13,7 @@ public class fizzbuzz {
 		   System.out.println(a[i]);
 	   }
     }
-	public static String[] fizztest(int n){
+	public static String[] lab1part3test(int n){
         int i;
 		String [] output = new String [n];
         for(i=1; i < n+1; i++) {
