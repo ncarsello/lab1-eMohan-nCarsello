@@ -1,0 +1,7 @@
+//Part 2 Write-Up
+//A really simple solution would literally to have:
+//system.out.println(“1”)
+//system.out.println(“2”)
+//system.out.println(“fizz”)
+//and so forth until we reach 17.
+//We could also define n as an integer = 17 and then write the for loop corresponding to fizz buzz.
